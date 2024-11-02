@@ -1,0 +1,11 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "main": "NodeJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Tabish",
+  "license": "ISC",
+  "description": ""
+}
