@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "main": "NodeJs.js",
   "scripts": {
+    "start": "node NPM.js",
+    "chacha": "echo \"\u001b[36mRunning tests...\u001b[39m\" && node NPM.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Md Tabish",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "accessibility": "^3.0.9",
+    "chalk": "^5.3.0",
     "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
