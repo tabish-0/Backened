@@ -24,7 +24,7 @@ jab tak Node chalega tab tak JS ke liye runtime environment deta hai backend lik
 
 // node and npm 
 // working with node ans npm
-// npm init
+// npm init -> to initialise npm
 // node basic uses
 
 // Working with modules.
